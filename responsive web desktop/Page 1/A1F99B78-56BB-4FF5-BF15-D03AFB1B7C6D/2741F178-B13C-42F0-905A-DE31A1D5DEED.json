@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2741F178-B13C-42F0-905A-DE31A1D5DEED",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 110,
+    "width": 285,
+    "x": 637,
+    "y": 609
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/title for feat",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "7B7CEF40-1C3F-482C-B9CA-42358EA845A9",
+      "overrideName": "A24B3A5A-47C5-424C-A717-600A1C49A3B9_stringValue",
+      "value": "Can You Get "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6DA4A08B-10B0-4472-B941-3C8FCF4462B9",
+      "overrideName": "CA4114EA-F602-40D4-AE6E-8AA6B2E1084F_stringValue",
+      "value": "Free Games For Your Iphone"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EDEE6B2F-A16F-438C-8A2F-2A6ACA9B3FFD",
+  "verticalSpacing": 0
+}

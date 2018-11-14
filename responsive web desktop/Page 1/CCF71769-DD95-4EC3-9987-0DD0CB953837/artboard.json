@@ -1,0 +1,110 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "D6B5E469-EE71-491C-A502-C5652C9CA22C",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "CCF71769-DD95-4EC3-9987-0DD0CB953837",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7E786D87-65B5-4B13-8A1D-966FFF7DF7F1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "762607C4-E71A-4141-B6B8-131452F3B45B",
+    "height": 1500,
+    "width": 1440,
+    "x": 6057,
+    "y": 2513
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "C8D6B77C-1008-4859-87B4-4E5680FBAF7C",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A30B6B48-35BF-4D65-92FD-CACA2C12595A",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "B2797F98-C842-4E64-8737-9CB8449F5A3E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "EABA5B64-C04C-4C44-BD72-7BFE9101ACD8"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8BD8801C-3996-4994-ABFC-059633EEF953"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "FC6FCDA6-8CAD-4D54-B573-9CB05613EA13"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8250E972-21E6-4F4C-A9ED-FB849DBB0622"
+    }
+  ],
+  "name": "internship Details",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "72F1DBF2-A5B2-438A-B2FC-2F04A7D2A8E0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "1FCF7EF4-77C5-490D-94AC-0D1476BFF6DB",
+    "guides": [
+    ]
+  }
+}

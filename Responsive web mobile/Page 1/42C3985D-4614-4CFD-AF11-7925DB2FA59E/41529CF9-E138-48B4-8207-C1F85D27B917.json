@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "41529CF9-E138-48B4-8207-C1F85D27B917",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3F19FBA5-8480-4C73-BCDC-A9FBE16B55CD",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "15A90A31-AC0D-49AF-8218-3FFACEB4E8CA",
+    "height": 66,
+    "width": 352,
+    "x": 22,
+    "y": 98
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/ header",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F35C12DB-AB21-44BE-A407-A50AF1844C4E",
+      "overrideName": "072E233D-3448-49A3-B155-EE2123D09D2F_stringValue",
+      "value": "Find Internships"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E1D2F043-69BF-4A0D-92D1-678B6ACB16E7",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EF795A75-CD40-430C-AD25-0F4C7FFDE148",
+  "verticalSpacing": 0
+}

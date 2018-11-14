@@ -1,0 +1,88 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "33E169BF-EBB5-49AE-8CC6-CCC06BA73CCD",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "B02DB67B-86F2-470B-A6C1-7714FD9078C7",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "308401AE-72CC-40DF-9968-CC8ABD14D8D6",
+    "height": 170,
+    "width": 284,
+    "x": 63,
+    "y": 869
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/ list ex",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "829ADBB9-913B-49C4-A585-893E520C9126",
+      "overrideName": "11BBA2B6-1378-415C-8559-8A27E82A3505_stringValue",
+      "value": "   "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "99AC70EA-4B8F-45E8-BA5E-58E7DA79B6F8",
+      "overrideName": "237C8329-4A3E-471C-95CF-42AC667C8A5C_stringValue",
+      "value": "Ginelle Hustrulid"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F3A565CA-1E40-4816-BD52-78849AA5708B",
+      "overrideName": "A21E800B-B09B-4F99-8E30-3E4F490402B7_stringValue",
+      "value": "VCD Professor"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AE633746-70B1-4428-90F6-AB834B0C42FB",
+      "overrideName": "5AEE8C4A-D463-4BE2-B32C-E958B6B88756_stringValue",
+      "value": "VCD Professor"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CC84D25A-12B4-450D-99C2-B8BA1633AC75",
+      "overrideName": "E84A787D-564C-4459-AA7A-4491BFADCDFD_stringValue",
+      "value": "  "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "205FE73C-E803-4924-B7C4-FF393223C81C",
+      "overrideName": "CA4B8F97-8DE1-4226-9D2B-30590404E3C5_stringValue",
+      "value": "Ginelle Hustrulid"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "8A19DA32-EA71-4988-93C6-FA444DD4D172",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0D719C34-FED8-41A0-8366-E3E67E656851",
+  "verticalSpacing": 0
+}

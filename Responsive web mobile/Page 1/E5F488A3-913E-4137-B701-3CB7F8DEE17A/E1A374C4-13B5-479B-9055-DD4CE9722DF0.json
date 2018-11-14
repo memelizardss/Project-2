@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "E1A374C4-13B5-479B-9055-DD4CE9722DF0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0006B617-E674-4FB0-85F2-1110E03D0944",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "6C28C315-AEB4-4903-8A06-E28E4F1F31C5",
+    "height": 66,
+    "width": 348,
+    "x": 27,
+    "y": 98
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/ header",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "DFB2D7F4-3928-45EC-B0E3-0B10859870BD",
+      "overrideName": "072E233D-3448-49A3-B155-EE2123D09D2F_stringValue",
+      "value": " Facilty Details"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4D19916D-A191-4BD4-A6E0-E587F0ECBF62",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EF795A75-CD40-430C-AD25-0F4C7FFDE148",
+  "verticalSpacing": 0
+}

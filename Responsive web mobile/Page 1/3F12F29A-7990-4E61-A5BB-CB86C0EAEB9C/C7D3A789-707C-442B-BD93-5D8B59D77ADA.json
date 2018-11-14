@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C7D3A789-707C-442B-BD93-5D8B59D77ADA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AC45EFD3-A249-4356-8D80-8AE83F291305",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "56E755B4-FD26-4DC0-B7DE-284C6A305AEC",
+    "height": 66,
+    "width": 353,
+    "x": 22,
+    "y": 98
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/ header",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A651D79A-623F-4849-AA7B-610A118550D1",
+      "overrideName": "072E233D-3448-49A3-B155-EE2123D09D2F_stringValue",
+      "value": "Course Directory"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "E12CC9B3-79FB-4884-892D-DF385EB4B152",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EF795A75-CD40-430C-AD25-0F4C7FFDE148",
+  "verticalSpacing": 0
+}

@@ -1,0 +1,88 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "6F6AF400-F688-4FE0-8DB6-3DC30133EE8E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "9D413A2D-C3CA-4A04-A5D0-88FF0BE000EF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "45A2C540-8972-45F2-8322-B393406B4101",
+    "height": 555,
+    "width": 320,
+    "x": 27,
+    "y": 456
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/ list ex lpnger",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CA4849DF-A1C5-40A2-BCD4-A8D65E96FC6A",
+      "overrideName": "2A8CFFAD-6A8B-4872-855F-12B864DF5CBD_stringValue",
+      "value": "Tyreil Poosri"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D4F5EC70-2A01-4379-9CC5-041EF3DC297F",
+      "overrideName": "EE195B13-D59D-4621-BDFA-5F0E541BEEF5_stringValue",
+      "value": "VCD Professor"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "35253F43-4B1B-4460-A962-1015ABB8799D",
+      "overrideName": "2868270E-468D-43E1-886B-93A0031FED07_stringValue",
+      "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc scelerisque semper tortor pharetra dapibus. Suspendisse sodales urna erat, ut dictum nisi tincidunt nec. Aenean ante urna, tincidunt eu ex eget, lacinia interdum odio. Vivamus vestibulum, eros nec accumsan porttitor, purus urna pretium augue, at iaculis nunc diam quis erat. Nam accumsan felis ut lobortis ullamcorper. Fusce egestas eros sed tellus ultricies molestie"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "214C2F3B-B2D7-4336-B0F1-2F60B16A21F8",
+      "overrideName": "6DFAA093-8051-4BB3-9C67-CCA88283DD19_stringValue",
+      "value": "Tyreil Poosri"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "034806D5-AA85-40A0-825A-DCBD10CA54EE",
+      "overrideName": "8F0A8C46-2C68-409F-9BAB-682540BB49ED_stringValue",
+      "value": "VCD Professor"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "1733928C-BACF-4072-8215-C619B0DB3E5E",
+      "overrideName": "4FAB66C6-2E3E-4A97-A2BE-7974B2726E75_stringValue",
+      "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc scelerisque semper tortor pharetra dapibus. Suspendisse sodales urna erat, ut dictum nisi tincidunt nec. Aenean ante urna, tincidunt eu ex eget, lacinia interdum odio. Vivamus vestibulum, eros nec accumsan porttitor"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "264BC793-CCE4-46CF-926A-AEAFF42581F0",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8CDC548C-981C-40B8-9CFA-652F48D9E0A6",
+  "verticalSpacing": 0
+}

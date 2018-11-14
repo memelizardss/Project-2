@@ -1,0 +1,88 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "D57A4E94-CA82-49C0-9A50-31339F31EDAF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "5C222DAE-5544-49CF-9914-F2B7B9B4FE81",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0EA07C17-A316-41FE-ABF1-CEF4A2F437F3",
+    "height": 170,
+    "width": 285,
+    "x": 62,
+    "y": 469
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/ list ex",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "19194CF3-2DCC-414C-A807-81904E510FF4",
+      "overrideName": "237C8329-4A3E-471C-95CF-42AC667C8A5C_stringValue",
+      "value": "Tyriel Poosri"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "17A71B1D-AC8E-49C2-A984-5DB1E19DCEBE",
+      "overrideName": "A21E800B-B09B-4F99-8E30-3E4F490402B7_stringValue",
+      "value": "VCD Professor"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4B379F5C-7DDF-48B6-B432-C95B77F93532",
+      "overrideName": "11BBA2B6-1378-415C-8559-8A27E82A3505_stringValue",
+      "value": "  "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "11630649-AE6D-499F-8FA0-BF2C9B46F9B1",
+      "overrideName": "5AEE8C4A-D463-4BE2-B32C-E958B6B88756_stringValue",
+      "value": "VCD Professor"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "75240FB5-1D27-4B78-BCB3-97B9DFC65735",
+      "overrideName": "CA4B8F97-8DE1-4226-9D2B-30590404E3C5_stringValue",
+      "value": "Tyreil Poosri"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "FD27936B-6461-4689-9411-BAEB04026F35",
+      "overrideName": "E84A787D-564C-4459-AA7A-4491BFADCDFD_stringValue",
+      "value": "  "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "C300A57E-ADB4-4F10-80DE-863120A021C3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0D719C34-FED8-41A0-8366-E3E67E656851",
+  "verticalSpacing": 0
+}

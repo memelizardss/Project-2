@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "C1A0E820-BDAA-4ECF-8E12-ABAF92C241D1",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 555,
+    "width": 778,
+    "x": 428,
+    "y": 398
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/ list ex lpnger",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "CA4849DF-A1C5-40A2-BCD4-A8D65E96FC6A",
+      "overrideName": "2A8CFFAD-6A8B-4872-855F-12B864DF5CBD_stringValue",
+      "value": "Tyreil Poosri"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "D4F5EC70-2A01-4379-9CC5-041EF3DC297F",
+      "overrideName": "EE195B13-D59D-4621-BDFA-5F0E541BEEF5_stringValue",
+      "value": "VCD Professor"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "35253F43-4B1B-4460-A962-1015ABB8799D",
+      "overrideName": "2868270E-468D-43E1-886B-93A0031FED07_stringValue",
+      "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc scelerisque semper tortor pharetra dapibus. Suspendisse sodales urna erat, ut dictum nisi tincidunt nec. Aenean ante urna, tincidunt eu ex eget, lacinia interdum odio. Vivamus vestibulum, eros nec accumsan porttitor, purus urna pretium augue, at iaculis nunc diam quis erat. Nam accumsan felis ut lobortis ullamcorper. Fusce egestas eros sed tellus ultricies molestie"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6CC637D5-0642-464D-A90A-51C7F0958C00",
+  "verticalSpacing": 0
+}

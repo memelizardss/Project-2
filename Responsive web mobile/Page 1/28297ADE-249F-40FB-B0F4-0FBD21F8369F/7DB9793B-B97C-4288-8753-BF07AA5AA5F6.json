@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "7DB9793B-B97C-4288-8753-BF07AA5AA5F6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "1E6E0D41-E036-4952-AFE6-31BA9498AB02",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "A45AC4C1-8C77-4648-8114-CED8575A54AC",
+    "height": 87,
+    "width": 317,
+    "x": 29,
+    "y": 288
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/title for feat",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "6F143E3A-13F1-4C0F-92A1-74D76918BE09",
+      "overrideName": "406CB841-AD12-4011-8C2C-D24A6741F7A0_stringValue",
+      "value": "Choosing "
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C6B47AB5-4937-438B-9E0B-F64A784D4251",
+      "overrideName": "F4210CA4-526C-423F-BC2B-46598BE6B79E_stringValue",
+      "value": "The Best Audio Player Software "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "50B8536C-7B58-447B-B1D8-5FEEC491C1E6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "D0A58250-3CEB-4646-BFBD-1BF1829EBA28",
+  "verticalSpacing": 0
+}

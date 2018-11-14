@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5E8E4C0B-8EFC-4528-BEE3-BE09D3538F74",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "721EE776-2070-4570-80D2-D0CC5D493A2D",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "91DE1092-8C9B-4083-A3D2-1DA11C995FA3",
+    "height": 110,
+    "width": 285,
+    "x": 181,
+    "y": 752
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/title for feat copy",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C5B58B10-F458-41D0-B9B8-7B88A8580094",
+      "overrideName": "A24B3A5A-47C5-424C-A717-600A1C49A3B9_stringValue",
+      "value": "Example Company Co."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "816DF5CD-8AA8-44F1-8BA2-52F99991123C",
+      "overrideName": "CA4114EA-F602-40D4-AE6E-8AA6B2E1084F_stringValue",
+      "value": "Lorem Ipsum"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3258F9EC-C068-4CE4-93E0-DB384AE5CD62",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EDEE6B2F-A16F-438C-8A2F-2A6ACA9B3FFD",
+  "verticalSpacing": 0
+}

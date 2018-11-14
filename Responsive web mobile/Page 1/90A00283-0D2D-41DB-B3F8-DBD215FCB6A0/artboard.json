@@ -1,0 +1,115 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "30A91EA4-21F5-4CCA-AE5C-4C3583D2A2BF",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "90A00283-0D2D-41DB-B3F8-DBD215FCB6A0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "85A81779-C882-4F57-B7E5-C13BBD394C01",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "3F3314CD-3B9D-47B6-A6C8-CC8A1487B5DC",
+    "height": 1300,
+    "width": 375,
+    "x": 798,
+    "y": 1669
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A1AD585D-41DE-467A-A4B3-1510733A3DA9",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "B266D669-D91E-46DC-A24E-EA75AD93079F"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "381A8F6A-C49D-4B1A-B824-31872CB8A218"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "8D02DD34-2E9A-4FB8-BB00-20DF147CD12B"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "053B0875-A4C8-429C-8337-7DA8B3C54501"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "083ADB9A-77B3-4AC5-8E56-5484DFD0CFE9"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "DB1EB002-FA88-4D47-80A6-4BA8163385F9"
+    },
+    {
+      "class": "rectangle",
+      "id": "EE61BFBA-1370-4DAE-B0D5-56B534563C1E"
+    },
+    {
+      "class": "rectangle",
+      "id": "6BD6343D-FFC3-40D6-BC37-C61E6B477368"
+    }
+  ],
+  "name": "Alumni overview",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 1,
+    "height": 667,
+    "name": "iPhone 8",
+    "offersLandscapeVariant": 1,
+    "width": 375
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A0994C9D-D210-419F-B35D-F14CEA56EFF3",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "0CE72EEE-756B-40EA-9619-4CF4DF83974D",
+    "guides": [
+    ]
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "_class": "artboard",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "do_objectID": "8FD9F13A-C9FA-4802-922F-37C8FAA1292D",
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "DCDDF70A-6531-43FB-8EA3-55C528865DFF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "AFD8E5FC-5D46-4BE9-AFEE-872B851992A5",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "8B523050-D0CD-4E16-9130-AE424AAAF525",
+    "height": 1500,
+    "width": 1440,
+    "x": 2839,
+    "y": -233
+  },
+  "grid": {
+    "_class": "simpleGrid",
+    "do_objectID": "56297943-4772-4930-B56C-192D07C63C76",
+    "gridSize": 20,
+    "isEnabled": false,
+    "thickGridTimes": 10
+  },
+  "hasBackgroundColor": true,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A5E7BBE4-13F2-4030-A7E4-2501EE5999D1",
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 2,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "8969B14F-0BA6-43D3-AD0B-0A4100522AC1"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "D2E8310F-EDA6-4D45-A83F-F7596A52AE59"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "A98300F7-1B06-40B6-81B6-7DCD5290CC88"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "5A190AE7-C377-44D7-BAAF-0F918707043E"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "E91920C0-3D1B-4B91-B553-FE75202288B2"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "527AB9CE-BE29-4E4A-8613-63D1C02D25B3"
+    },
+    {
+      "class": "symbolInstance",
+      "id": "22E00711-910B-4890-B39A-7E7E9E6E6FD7"
+    }
+  ],
+  "name": "course work overview",
+  "nameIsFixed": true,
+  "presetDictionary": {
+    "allowResizedMatching": 0,
+    "height": 1024,
+    "name": "Desktop HD",
+    "offersLandscapeVariant": 0,
+    "width": 1440
+  },
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "do_objectID": "3A0DB617-066C-4297-8540-9BAD4D15C0B6",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "do_objectID": "A877F2C8-C12B-4FE0-A5C4-FA9B13050D4F",
+    "guides": [
+    ]
+  }
+}

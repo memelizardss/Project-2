@@ -1,0 +1,88 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "2C39C639-48E5-458D-9417-2F72884F91A9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FACED115-7823-4A24-B722-08168F6BE86B",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "FEE433A2-46CC-4B91-8FE3-5EA306B917D2",
+    "height": 150,
+    "width": 325,
+    "x": 22,
+    "y": 470
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/ list ex",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "0F0A9257-C3F5-4E66-AC00-03893C0A6026",
+      "overrideName": "237C8329-4A3E-471C-95CF-42AC667C8A5C_stringValue",
+      "value": "McKayla Hartsock"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2826C1D9-E0F4-41D9-8DF9-392A5FAE28F6",
+      "overrideName": "A21E800B-B09B-4F99-8E30-3E4F490402B7_stringValue",
+      "value": "Graduated 2019"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "BB67565B-07DA-49DD-8BFA-11133988FD49",
+      "overrideName": "11BBA2B6-1378-415C-8559-8A27E82A3505_stringValue",
+      "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc scelerisque semper tortor pharetra dapibus."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "F76E6EB2-4940-4748-8B51-5FDDA0B386F0",
+      "overrideName": "5AEE8C4A-D463-4BE2-B32C-E958B6B88756_stringValue",
+      "value": "Graduated 2019"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5CE23B04-D3D9-4973-9467-864973809D17",
+      "overrideName": "CA4B8F97-8DE1-4226-9D2B-30590404E3C5_stringValue",
+      "value": "McKayla Hartsock"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "2110DFF3-02A9-4199-9A38-6932C5A0FBCC",
+      "overrideName": "E84A787D-564C-4459-AA7A-4491BFADCDFD_stringValue",
+      "value": "  "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "4165EE3C-768B-4805-8FC6-0E0A4689C061",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0D719C34-FED8-41A0-8366-E3E67E656851",
+  "verticalSpacing": 0
+}

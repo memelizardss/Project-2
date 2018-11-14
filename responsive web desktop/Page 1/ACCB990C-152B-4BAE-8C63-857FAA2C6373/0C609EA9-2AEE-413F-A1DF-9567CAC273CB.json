@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "0C609EA9-2AEE-413F-A1DF-9567CAC273CB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 501,
+    "width": 778,
+    "x": 507,
+    "y": 396
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/ list ex lpnger",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "75207370-B7D9-4D9E-A674-A6560F36E575",
+      "overrideName": "2A8CFFAD-6A8B-4872-855F-12B864DF5CBD_stringValue",
+      "value": "McKayla Hartsock"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "B4D51A88-7E77-4EF2-8CE0-69B895B1791B",
+      "overrideName": "EE195B13-D59D-4621-BDFA-5F0E541BEEF5_stringValue",
+      "value": "Graduated 2019"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5AC30C0E-0268-4828-A379-4A9264E6F936",
+      "overrideName": "2868270E-468D-43E1-886B-93A0031FED07_stringValue",
+      "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc scelerisque semper tortor pharetra dapibus. Suspendisse sodales urna erat, ut dictum nisi tincidunt nec. Aenean ante urna, tincidunt eu ex eget, lacinia interdum odio. Vivamus vestibulum, eros nec accumsan porttitor, purus urna pretium augue, at iaculis nunc diam quis erat."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6CC637D5-0642-464D-A90A-51C7F0958C00",
+  "verticalSpacing": 0
+}

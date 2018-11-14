@@ -1,0 +1,58 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "BFD09FB2-38C6-4ECE-9C96-D6DE727869E8",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "40F6E3EB-A202-41AB-A934-433AB9DA54C2",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "B0BF17B8-43BC-4307-B04A-4B9DDBE7408A",
+    "height": 965,
+    "width": 342,
+    "x": 21,
+    "y": 164
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/ list ex lpnger",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5EF1B62F-FD2E-4487-B7D4-27DFB75692A2",
+      "overrideName": "4FAB66C6-2E3E-4A97-A2BE-7974B2726E75_stringValue",
+      "value": "This course covers hand-drawing as a design skill. Emphasis is on sketching, design drawing, design process and composition studies for visual presentation and design solutions. Students gain drawing skills such as basics of drawing techniques, basic shapes, light, texture, pattern, gesture and perspective drawing to communicate and present their ideas visually. Students learn and develop critical thinking and creative problem solving skills using the drawing process."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A5E57BF7-EE9A-44F9-B43B-D8055DC445AA",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8CDC548C-981C-40B8-9CFA-652F48D9E0A6",
+  "verticalSpacing": 0
+}

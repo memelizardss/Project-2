@@ -1,0 +1,64 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "5B9843DC-5D92-44A5-B4F9-40D17F6F2D00",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F3E53AA7-DC9C-4884-BF9C-53ECFA1DBF17",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "BB503CD9-CEDF-4216-AA1B-9404544BA51D",
+    "height": 312,
+    "width": 337,
+    "x": 26,
+    "y": 547
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/ list ex",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "E3B0DE9E-BEC5-46B6-BBE6-472675F0CB6F",
+      "overrideName": "CA4B8F97-8DE1-4226-9D2B-30590404E3C5_stringValue",
+      "value": "Design 200. Visual thinking"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "5DDCC380-FBA5-4A4B-95D0-62DDFD5AF486",
+      "overrideName": "E84A787D-564C-4459-AA7A-4491BFADCDFD_stringValue",
+      "value": "In this course, students will critically interpret images and decode them much like they would decode a poem"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "548AEADF-4075-4B9C-B324-F51F76910F34",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "0D719C34-FED8-41A0-8366-E3E67E656851",
+  "verticalSpacing": 0
+}

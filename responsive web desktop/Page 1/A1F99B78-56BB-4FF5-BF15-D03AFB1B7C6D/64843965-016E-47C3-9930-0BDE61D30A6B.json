@@ -1,0 +1,61 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "64843965-016E-47C3-9930-0BDE61D30A6B",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 110,
+    "width": 285,
+    "x": 1093,
+    "y": 609
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/title for feat",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "C7EB0348-BB5A-4295-A672-174502326A72",
+      "overrideName": "A24B3A5A-47C5-424C-A717-600A1C49A3B9_stringValue",
+      "value": "Help Finding"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "49177531-EDA3-4E59-A9CD-1E33441387A8",
+      "overrideName": "CA4114EA-F602-40D4-AE6E-8AA6B2E1084F_stringValue",
+      "value": "Information Online"
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "EDEE6B2F-A16F-438C-8A2F-2A6ACA9B3FFD",
+  "verticalSpacing": 0
+}

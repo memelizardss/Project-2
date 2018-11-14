@@ -1,0 +1,99 @@
+{
+  "_class": "page",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "B473CF5A-19BB-45E1-9275-C4009C29B9FC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 0,
+    "width": 0,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "artboard",
+      "id": "A1F99B78-56BB-4FF5-BF15-D03AFB1B7C6D"
+    },
+    {
+      "class": "artboard",
+      "id": "19A2DB72-A5F5-4901-A66A-220FA524C8D2"
+    },
+    {
+      "class": "artboard",
+      "id": "DCDDF70A-6531-43FB-8EA3-55C528865DFF"
+    },
+    {
+      "class": "artboard",
+      "id": "ACCB990C-152B-4BAE-8C63-857FAA2C6373"
+    },
+    {
+      "class": "artboard",
+      "id": "6F9E7725-CB51-4AC0-B61A-0FD7B12CDFCA"
+    },
+    {
+      "class": "artboard",
+      "id": "900A1958-459E-41AC-993B-348D8239847F"
+    },
+    {
+      "class": "artboard",
+      "id": "583B7735-02AF-4FE4-88D3-E095FB788632"
+    },
+    {
+      "class": "artboard",
+      "id": "1CB4E627-F1D8-4EDC-8926-290A2BEAB134"
+    },
+    {
+      "class": "artboard",
+      "id": "C08D0E4A-8B2E-4368-A435-0C78B3A600DA"
+    },
+    {
+      "class": "artboard",
+      "id": "CCF71769-DD95-4EC3-9987-0DD0CB953837"
+    }
+  ],
+  "name": "Page 1",
+  "nameIsFixed": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

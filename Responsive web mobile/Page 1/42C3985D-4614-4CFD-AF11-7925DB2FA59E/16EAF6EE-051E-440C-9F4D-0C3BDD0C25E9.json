@@ -1,0 +1,52 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "16EAF6EE-051E-440C-9F4D-0C3BDD0C25E9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "F1478D85-BD9A-45E1-8567-DBE0C1757BC3",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5A1F6DA2-B81A-4A06-AD13-A9BADA35D589",
+    "height": 62,
+    "width": 346,
+    "x": 14,
+    "y": 755
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/ search bar",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A9CF548A-4BFC-4B73-A6C0-D405A80210AE",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "F8E3F353-03DF-4E7B-94FC-E6C9BC1E51D5",
+  "verticalSpacing": 0
+}

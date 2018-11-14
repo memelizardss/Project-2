@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "47280813-9FB2-4D93-B210-83A31B1C1377",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 170,
+    "width": 778,
+    "x": 373,
+    "y": 337
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/ list ex",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "19194CF3-2DCC-414C-A807-81904E510FF4",
+      "overrideName": "237C8329-4A3E-471C-95CF-42AC667C8A5C_stringValue",
+      "value": "Tyriel Poosri"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "17A71B1D-AC8E-49C2-A984-5DB1E19DCEBE",
+      "overrideName": "A21E800B-B09B-4F99-8E30-3E4F490402B7_stringValue",
+      "value": "VCD Professor"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "4B379F5C-7DDF-48B6-B432-C95B77F93532",
+      "overrideName": "11BBA2B6-1378-415C-8559-8A27E82A3505_stringValue",
+      "value": "  "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "7B2B69A8-97B0-4F66-A3D0-AA140B227260",
+  "verticalSpacing": 0
+}

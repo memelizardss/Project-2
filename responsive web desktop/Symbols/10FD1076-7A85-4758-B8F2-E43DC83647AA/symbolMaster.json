@@ -1,0 +1,129 @@
+{
+  "_class": "symbolMaster",
+  "backgroundColor": {
+    "_class": "color",
+    "alpha": 1,
+    "blue": 1,
+    "green": 1,
+    "red": 1
+  },
+  "booleanOperation": -1,
+  "changeIdentifier": 9003,
+  "clippingMaskMode": 0,
+  "do_objectID": "10FD1076-7A85-4758-B8F2-E43DC83647AA",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 333,
+    "width": 1440,
+    "x": 931,
+    "y": 0
+  },
+  "hasBackgroundColor": false,
+  "hasClickThrough": true,
+  "hasClippingMask": false,
+  "horizontalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  },
+  "includeBackgroundColorInExport": true,
+  "includeBackgroundColorInInstance": false,
+  "includeInCloudUpload": true,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isFlowHome": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "rectangle",
+      "id": "C2493EB7-3AAE-4064-879E-34917237FBA2"
+    },
+    {
+      "class": "text",
+      "id": "9705DD4C-BE7A-4BDB-81CE-6967CC58F3E6"
+    },
+    {
+      "class": "text",
+      "id": "08A620A5-71E0-4136-BE18-95F0542E690E"
+    },
+    {
+      "class": "text",
+      "id": "36AB1298-AF09-4754-98C9-0AC67976559B"
+    },
+    {
+      "class": "text",
+      "id": "0A6359C9-B968-43F9-B41A-CDBCA746BC54"
+    },
+    {
+      "class": "text",
+      "id": "33E4B92C-8EEB-457E-87AC-7AB6C6E75C5B"
+    },
+    {
+      "class": "text",
+      "id": "028AF189-9835-4AE2-8256-6D9D6EF49D96"
+    },
+    {
+      "class": "text",
+      "id": "09250A69-819A-43A3-8954-ABDFA80A6CA0"
+    },
+    {
+      "class": "text",
+      "id": "7034D485-D8A3-46AD-8DA0-57D034D225FC"
+    },
+    {
+      "class": "text",
+      "id": "255EEA2C-1F17-41A2-8FC0-6B0C801F41AD"
+    },
+    {
+      "class": "bitmap",
+      "id": "CE4BE793-3232-4830-B7B7-29B8ABAC87C9"
+    },
+    {
+      "class": "bitmap",
+      "id": "B96EA203-2176-4824-A61B-8903CB48FC36"
+    },
+    {
+      "class": "bitmap",
+      "id": "EEE9DA08-3BD3-45E9-8175-27D673407D0C"
+    },
+    {
+      "class": "bitmap",
+      "id": "C52C9258-35CB-45A9-9452-D0E59107449D"
+    }
+  ],
+  "name": "molecule/ footer",
+  "nameIsFixed": false,
+  "resizesContent": false,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": true,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "3BE465DD-4DF1-4367-A40E-E0375F45DB8E",
+  "verticalRulerData": {
+    "_class": "rulerData",
+    "base": 0,
+    "guides": [
+    ]
+  }
+}

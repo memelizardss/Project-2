@@ -1,0 +1,67 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "8250E972-21E6-4F4C-A9ED-FB849DBB0622",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 602,
+    "width": 778,
+    "x": 120,
+    "y": 399
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/ list ex lpnger",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A99E262B-5721-401D-90EB-60A7B2712E45",
+      "overrideName": "2A8CFFAD-6A8B-4872-855F-12B864DF5CBD_stringValue",
+      "value": "Example Company Co."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "17F220D2-A3BB-4310-BDDF-7AC53856B032",
+      "overrideName": "EE195B13-D59D-4621-BDFA-5F0E541BEEF5_stringValue",
+      "value": "Paid 15.00/ Hr"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "15709837-F0CF-404C-A719-3A714132CEE8",
+      "overrideName": "2868270E-468D-43E1-886B-93A0031FED07_stringValue",
+      "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, eros nec gravida consequat, mauris massa suscipit magna, et vulputate est ipsum non velit. Aenean in ex convallis, faucibus erat at, auctor orci. Proin dignissim sit amet ante ac ultricies. Vivamus et odio commodo, consectetur lorem pulvinar, maximus augue. Ut nec tellus finibus, lobortis augue a, iaculis arcu. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi tincidunt eleifend nunc sit amet hendrerit. Praesent convallis magna sit amet mauris auctor, quis pulvinar urna hendrerit. Etiam pretium molestie justo id convallis. Maecenas pulvinar nisl a sodales imperdiet."
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "6CC637D5-0642-464D-A90A-51C7F0958C00",
+  "verticalSpacing": 0
+}

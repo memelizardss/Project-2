@@ -1,0 +1,88 @@
+{
+  "_class": "symbolInstance",
+  "booleanOperation": -1,
+  "clippingMaskMode": 0,
+  "do_objectID": "A2FB6E57-13AC-49BE-B8AA-70F99F277E34",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7A5492C4-B84F-4948-AFB6-A013C33FEBC4",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "E7D02EC0-07E3-4F16-AC6D-B3CB7173CD1D",
+    "height": 914,
+    "width": 325,
+    "x": 25,
+    "y": 164
+  },
+  "hasClippingMask": false,
+  "horizontalSpacing": 0,
+  "isFixedToViewport": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "molecule/ list ex lpnger",
+  "nameIsFixed": false,
+  "overrideValues": [
+    {
+      "_class": "overrideValue",
+      "do_objectID": "A99E262B-5721-401D-90EB-60A7B2712E45",
+      "overrideName": "2A8CFFAD-6A8B-4872-855F-12B864DF5CBD_stringValue",
+      "value": "Example Company Co."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "17F220D2-A3BB-4310-BDDF-7AC53856B032",
+      "overrideName": "EE195B13-D59D-4621-BDFA-5F0E541BEEF5_stringValue",
+      "value": "Paid 15.00/ Hr"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "15709837-F0CF-404C-A719-3A714132CEE8",
+      "overrideName": "2868270E-468D-43E1-886B-93A0031FED07_stringValue",
+      "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, eros nec gravida consequat, mauris massa suscipit magna, et vulputate est ipsum non velit. Aenean in ex convallis, faucibus erat at, auctor orci. Proin dignissim sit amet ante ac ultricies. Vivamus et odio commodo, consectetur lorem pulvinar, maximus augue. Ut nec tellus finibus, lobortis augue a, iaculis arcu. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi tincidunt eleifend nunc sit amet hendrerit. Praesent convallis magna sit amet mauris auctor, quis pulvinar urna hendrerit. Etiam pretium molestie justo id convallis. Maecenas pulvinar nisl a sodales imperdiet."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "AAAD698E-25AF-4C5F-BF12-06C44F06AAA4",
+      "overrideName": "6DFAA093-8051-4BB3-9C67-CCA88283DD19_stringValue",
+      "value": "Example Company Co."
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "12442825-EC6C-4EFC-9E16-8E37B25F8A66",
+      "overrideName": "8F0A8C46-2C68-409F-9BAB-682540BB49ED_stringValue",
+      "value": "Paid 15.00/ Hr"
+    },
+    {
+      "_class": "overrideValue",
+      "do_objectID": "757AD654-27B3-47BD-8D79-4BFEBFA4A8D0",
+      "overrideName": "4FAB66C6-2E3E-4A97-A2BE-7974B2726E75_stringValue",
+      "value": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod, eros nec gravida consequat, mauris massa suscipit magna, et vulputate est ipsum non velit. Aenean in ex convallis, faucibus erat at, auctor orci. Proin dignissim sit amet ante ac ultricies. Vivamus et odio commodo, consectetur lorem pulvinar, maximus augue. Ut nec tellus finibus, lobortis augue a, iaculis arcu. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Morbi tincidunt eleifend nunc sit amet hendrerit. "
+    }
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "998AD27E-2217-4CD2-A363-08D8BF95D06A",
+    "endMarkerType": 0,
+    "miterLimit": 10,
+    "startMarkerType": 0,
+    "windingRule": 1
+  },
+  "symbolID": "8CDC548C-981C-40B8-9CFA-652F48D9E0A6",
+  "verticalSpacing": 0
+}
